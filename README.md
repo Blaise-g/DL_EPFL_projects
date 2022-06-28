@@ -1,5 +1,6 @@
 # DL_mini_projects
 This repository contains two mini-projects for the EPFL deep learning course (EE-559), Spring 2021.
+
 The directories named Proj1 and Proj2 contain the python sources files including the main executable test.py to call without arguments as well as the report corresponding respectively to the first and second project described below.
 
 # Project 1: Digit Image classification task with weight sharing and auxiliary losses
